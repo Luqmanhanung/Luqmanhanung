@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Luqmanhanung
 - 👀 I’m interested in software development specialist Quality Engineer
 - 🌱 I’m currently learning about the software development phase especially the manual and automation testing phase
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me via LinkedIn www.linkedin.com/in/luqman-hanung-asidiq-681877201
 
 <!---
