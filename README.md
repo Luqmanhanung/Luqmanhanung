@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development specialist Quality Engineer
 - 🌱 I’m currently learning about the software development phase especially the manual and automation testing phase
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me via LinkedIn Luqman Hanung Asidiq
+- 📫 How to reach me via LinkedIn www.linkedin.com/in/luqman-hanung-asidiq-681877201
 
 <!---
 Luqmanhanung/Luqmanhanung is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
