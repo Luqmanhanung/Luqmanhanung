@@ -36,8 +36,8 @@ I’m interested in software development specialist Quality Engineer and current
 ## 🔗Reach me!
 <p>
     <a href="https://www.linkedin.com/in/luqman-hanung-asidiq-681877201/" target="blank"><img src="https://img.shields.io/badge/-linkedin-181717?style=for-the-badge&logo=linkedin" /></a>
+    <a href="mailto: luqmanhanung@gmail.com" target="blank"><img src="https://img.shields.io/badge/-gmail-181717?style=for-the-badge&logo=gmail" /></a>
     <a href="https://www.instagram.com/luqmanhanung/" target="blank"><img src="https://img.shields.io/badge/-instagram-181717?style=for-the-badge&logo=instagram" /></a>
     <a href="https://www.tiktok.com/@anunglux" target="blank"><img src="https://img.shields.io/badge/-tiktok-181717?style=for-the-badge&logo=tiktok" /></a>
-    <a href="mailto: luqmanhanung@gmail.com" target="blank"><img src="https://img.shields.io/badge/-gmail-181717?style=for-the-badge&logo=gmail" /></a>
 </p>
 
