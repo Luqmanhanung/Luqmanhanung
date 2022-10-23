@@ -25,7 +25,7 @@ I’m interested in software development specialist Quality Engineer and still l
 ![Karate Framework](https://img.shields.io/badge/-karate-181717?style=for-the-badge&logo=karate)
 ![Serenity BDD](https://img.shields.io/badge/-serenitybdd-181717?style=for-the-badge&logo=serenitybdd)
 ![Rest-Assured](https://img.shields.io/badge/-restassured-181717?style=for-the-badge&logo=restassured)
-![MySQL](https://img.shields.io/badge/-mysql-181717?style=for-the-badge&logo=mysql)
+![MySQL](https://img.shields.io/badge/-mysql-000000?style=for-the-badge&logo=mysql)
 ![HTML](https://img.shields.io/badge/-html-000000?style=for-the-badge&logo=html)
 ![Github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
