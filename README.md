@@ -3,7 +3,7 @@ Luqmanhanung/Luqmanhanung is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 # Hi IT People 👋 , I'm Luqman!
-I’m interested in software development specialist Quality Engineer and currently learning about the software development phase especially the manual and automation testing phase. Having knowledge to create web automation using Cucumber Selenium Java. Create mobile(Android) automation using Cucumber Appium Java. API Testing using Postman, and Cucumber Serenity BDD with Rest Assured.
+I’m interested in software development specialist Quality Engineer and still learning about the software development phase especially the manual and automation testing phase. Having knowledge to create web automation using Cucumber Selenium Java. Create mobile(Android) automation using Cucumber Appium Java. API Testing using Postman, and Cucumber Serenity BDD with Rest Assured.
 
 ## 📈Statistics
 <p align="left">
