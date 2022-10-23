@@ -18,7 +18,7 @@ I’m interested in software development specialist Quality Engineer and still l
 ![Javascript](https://img.shields.io/badge/-javascript-000000?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/-python-000000?style=for-the-badge&logo=python)
 ![Selenium Webdriver](https://img.shields.io/badge/-selenium-000000?style=for-the-badge&logo=selenium)
-![Appium](https://img.shields.io/badge/-appium-0000007?style=for-the-badge&logo=appium)
+![Appium](https://img.shields.io/badge/-appium-0000000?style=for-the-badge&logo=appium)
 ![Cucumber](https://img.shields.io/badge/-cucumber-000000?style=for-the-badge&logo=cucumber)
 ![Cypress](https://img.shields.io/badge/-cypress-000000?style=for-the-badge&logo=cypress)
 ![Postman](https://img.shields.io/badge/-postman-000000?style=for-the-badge&logo=postman)
