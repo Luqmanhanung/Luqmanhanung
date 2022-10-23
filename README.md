@@ -24,6 +24,7 @@ I’m interested in software development specialist Quality Engineer and still l
 ![Postman](https://img.shields.io/badge/-postman-000000?style=for-the-badge&logo=postman)
 ![Serenity BDD](https://img.shields.io/badge/-serenitybdd-000000?style=for-the-badge&logo=serenitybdd)
 ![Rest-Assured](https://img.shields.io/badge/-restassured-000000?style=for-the-badge&logo=restassured)
+![JMeter](https://img.shields.io/badge/-cucumber-000000?style=for-the-badge&logo=jmeter)
 ![MySQL](https://img.shields.io/badge/-mysql-000000?style=for-the-badge&logo=mysql)
 ![HTML](https://img.shields.io/badge/-html-000000?style=for-the-badge&logo=html)
 ![Github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
