@@ -15,7 +15,6 @@ I’m interested in software development specialist Quality Engineer and still l
 
 ## 🔨Tools Skill
 ![Java](https://img.shields.io/badge/-java-000000?style=for-the-badge&logo=java)
-![Javascript](https://img.shields.io/badge/-javascript-000000?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/-python-000000?style=for-the-badge&logo=python)
 ![Selenium Webdriver](https://img.shields.io/badge/-selenium-000000?style=for-the-badge&logo=selenium)
 ![Appium](https://img.shields.io/badge/-appium-000000?style=for-the-badge&logo=appium)
