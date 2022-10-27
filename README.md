@@ -7,11 +7,11 @@ You can click the Preview link to take a look at your changes.
 I’m interested in software development specialist Quality Engineer and still learning about the software development phase especially the manual and automation testing phase. Having knowledge to create web automation using Cucumber Selenium Java. Create mobile(Android) automation using Cucumber Appium Java. API Testing using Postman, and Cucumber Serenity BDD with Rest Assured.
 
 ## 📈Statistics
-<p align="left">
+<p align="center">
 <a href="https://github.com/Luqmanhanung">
-  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Luqmanhanung&layout=compact&langs_count=8&theme=algolia"/>
-  <img height="190em" src="https://github-readme-streak-stats.herokuapp.com/?user=Luqmanhanung&theme=algolia"/>
-  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Luqmanhanung&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Luqmanhanung&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Luqmanhanung&theme=algolia"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Luqmanhanung&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
 </p>
 
