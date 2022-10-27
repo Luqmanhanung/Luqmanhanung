@@ -11,7 +11,7 @@ I’m interested in software development specialist Quality Engineer and still l
 <a href="https://github.com/Luqmanhanung">
   <img height="132em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Luqmanhanung&layout=compact&langs_count=8&theme=algolia"/>
   <img height="132em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Luqmanhanung&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="132em" src="https://github-readme-streak-stats.herokuapp.com/?user=Luqmanhanung&theme=dark"/>
+  <img height="132em" src="https://github-readme-streak-stats.herokuapp.com/?user=Luqmanhanung&theme=algolia"/>
 </a>
 </p>
 
