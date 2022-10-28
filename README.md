@@ -41,3 +41,4 @@ I’m interested in software development specialist Quality Engineer and still l
     <a href="https://www.tiktok.com/@anunglux" target="blank"><img src="https://img.shields.io/badge/-tiktok-181717?style=for-the-badge&logo=tiktok" /></a>
 </p>
 
+<img src="https://github.com/alansmathew/alansmathew/blob/master/projects.gif">
