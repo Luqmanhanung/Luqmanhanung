@@ -17,6 +17,7 @@ I’m interested in software development specialist Quality Engineer and still l
 </p>
 
 ## 🔨Tools Skill
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 ![Java](https://img.shields.io/badge/-java-000000?style=for-the-badge&logo=java)
 ![Python](https://img.shields.io/badge/-python-000000?style=for-the-badge&logo=python)
 ![Selenium Webdriver](https://img.shields.io/badge/-selenium-000000?style=for-the-badge&logo=selenium)
