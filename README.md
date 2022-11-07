@@ -39,11 +39,10 @@ You can click the Preview link to take a look at your changes.
 <p>
     <a href="https://www.linkedin.com/in/luqman-hanung-asidiq-681877201/" target="blank"><img src="https://img.shields.io/badge/-linkedin-181717?style=for-the-badge&logo=linkedin" /></a>
     <a href="mailto: luqmanhanung@gmail.com" target="blank"><img src="https://img.shields.io/badge/-gmail-181717?style=for-the-badge&logo=gmail" /></a>
+    <a href="https://t.me/Luqmanhanung" target="blank"><img src="https://img.shields.io/badge/-telegram-181717?style=for-the-badge&logo=telegram" /></a>
     <a href="https://www.instagram.com/luqmanhanung/" target="blank"><img src="https://img.shields.io/badge/-instagram-181717?style=for-the-badge&logo=instagram" /></a>
     <a href="https://www.tiktok.com/@anunglux" target="blank"><img src="https://img.shields.io/badge/-tiktok-181717?style=for-the-badge&logo=tiktok" /></a>
-    <a href="https://t.me/Luqmanhanung" target="blank"><img src="https://img.shields.io/badge/-telegram-181717?style=for-the-badge&logo=telegram" /></a>
 </p>
     
 </p>
-
 <img src="https://github.com/alansmathew/alansmathew/blob/master/projects.gif">
