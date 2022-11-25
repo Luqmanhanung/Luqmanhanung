@@ -3,7 +3,7 @@
 Luqmanhanung/Luqmanhanung is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<img src="https://github.com/Luqmanhanung/Luqmanhanung/blob/main/Luqman%20Hanung%20Asidiq's%20LinkedIn%20Banner%20(1).png">
+<img src="https://github.com/Luqmanhanung/Luqmanhanung/blob/main/Luqman%20Hanung%20Asidiq's%20LinkedIn%20Banner%20(2).png">
 <h3 align="justify">I’m interested in software development specialist Quality Engineer and still learning about the software development phase especially the manual and automation testing phase. Having knowledge to create web automation using Cucumber Selenium Java. Create mobile(Android) automation using Cucumber Appium Java. API Testing using Postman, and Cucumber Serenity BDD with Rest Assured.</h3>
 
 ## 📈Statistics
