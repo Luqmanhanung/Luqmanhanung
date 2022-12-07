@@ -12,7 +12,10 @@ You can click the Preview link to take a look at your changes.
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Luqmanhanung&layout=compact&langs_count=8&theme=dracula"/>
   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Luqmanhanung&theme=dracula"/>
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Luqmanhanung&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/><br>
-  <img src="https://komarev.com/ghpvc/?username=Luqmanhanung&label=Profile%20views&color=0e75b6&style=flat" alt="Luqmanhanung" />
+  <p align="center"> 
+  Visitor Count<br>
+  <img src="https://profile-counter.glitch.me/Luqmanhanung/count.svg" />
+</p>
 </a>
 </p>
 
